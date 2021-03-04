@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on John Rooney</title>
+    <link>https://jhnwr.com/blog/</link>
+    <description>Recent content in Blogs on John Rooney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Tue, 26 Jan 2021 20:00:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhnwr.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Learning to Code</title>
+      <link>https://jhnwr.com/blog/learning-to-code/</link>
+      <pubDate>Tue, 26 Jan 2021 20:00:03 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/blog/learning-to-code/</guid>
+      <description>What It&amp;rsquo;s used for In the modern world, with some exceptions we expect most people to be computer literate and meet a certain degree of proficiency in a working environment. Before it was excel, when I was applying for jobs as a young man, being able to prove my Word and Excel skills was a given. Imagine having to learn how to use a VLOOKUP to get a job.
+These days for those who want to work in any office type position I think a level of understanding code gives you a great advantage.</description>
+    </item>
+    
+  </channel>
+</rss>

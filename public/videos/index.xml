@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Videos on John Rooney</title>
+    <link>https://jhnwr.com/videos/</link>
+    <description>Recent content in Videos on John Rooney</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 04 Mar 2021 19:26:36 +0000</lastBuildDate>
+    
+	<atom:link href="https://jhnwr.com/videos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scrape Javascript with SPLASH  - how to install and get started with Splash</title>
+      <link>https://jhnwr.com/videos/getstartedsplash/</link>
+      <pubDate>Thu, 04 Mar 2021 19:26:36 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/videos/getstartedsplash/</guid>
+      <description>Get started with Splash! Splash is a lightweight browser with an API designed spcifically for web scraping and rendering javascript and dynamic websites. We can quickly and easily send requests to Splash instance and have it render the JS for us, and return the HTML to parse. I cover install Splash and Docker Desktop, the simplist and easiest way to manage it on windows. You guys should definitely try this out.</description>
+    </item>
+    
+    <item>
+      <title>Scrapy for Beginners</title>
+      <link>https://jhnwr.com/videos/scrapyforbeginners/</link>
+      <pubDate>Thu, 04 Mar 2021 19:25:15 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/videos/scrapyforbeginners/</guid>
+      <description>Scrapy for Beginners! This python tutorial is aimed at people new to scrapy. We cover crawling with a basic spider an create a complete tutorial project, including exporting to a json file. We scrape products from a online shop and get names and prices.
+Learn how to use the scrapy shell to parse the data, and get text and href attributes from the html, as well as scraping multiple pages. Thi is a full how to from start to finish for your first scrapy spider project, all in Python 3.</description>
+    </item>
+    
+    <item>
+      <title>How to Rotate Proxies with Python</title>
+      <link>https://jhnwr.com/videos/rotateproxies/</link>
+      <pubDate>Thu, 04 Mar 2021 19:23:22 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/videos/rotateproxies/</guid>
+      <description>Getting blocked for too many requests will be all too familr to those who scrape large amounts of data an often. We should be fair to websites and not spam their servers, however in the times where we don&amp;rsquo;t have an option, or are blocked from the website altogether sending our request through a proxy is the best option.
+In this video I go through how to implement rotating proxies using requests with Python.</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping: HTML Tables with Python</title>
+      <link>https://jhnwr.com/videos/parsinghtmltables/</link>
+      <pubDate>Thu, 04 Mar 2021 19:20:34 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/videos/parsinghtmltables/</guid>
+      <description>A lot of the time the data is structured well on the website inside an HTML table. We can easily use beautifulsoup to parse that data out. It&amp;rsquo;s not the only way but its a good option and will sharped your parsing skills too.
+  </description>
+    </item>
+    
+    <item>
+      <title>How to SCRAPE DYNAMIC websites with Selenium</title>
+      <link>https://jhnwr.com/videos/scrapingdynamicsites/</link>
+      <pubDate>Thu, 04 Mar 2021 19:18:15 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/videos/scrapingdynamicsites/</guid>
+      <description>There are many options now when it comes to scraping Javascript or dynamically loaded content from mordern websites. I generally recommend not to use Selenium as its designed for testing and not scraping, but sometimes it&amp;rsquo;s the best or only option. It&amp;rsquo;s a really useful too either way though and well worth learning.
+In this video I cover the basics of how to get started with Selenium and Python.
+  </description>
+    </item>
+    
+    <item>
+      <title>Web scraping with Python</title>
+      <link>https://jhnwr.com/videos/webscrapingwithpython/</link>
+      <pubDate>Thu, 04 Mar 2021 19:14:25 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/videos/webscrapingwithpython/</guid>
+      <description>Web Scraping with Python If you are new to the idea of web scraping and want to learn then I&amp;rsquo;d recommend you start with this video I made, showing you how to use the requests and beautifulsoup librarys to download a webpage and parse the HTML data. We scrape product information from a live online shop and troubleshoot some common issues on the way.
+  </description>
+    </item>
+    
+    <item>
+      <title>BeautifulSoup vs Selenium vs Scrapy</title>
+      <link>https://jhnwr.com/videos/bs4vselvsscrapy/</link>
+      <pubDate>Tue, 26 Jan 2021 20:02:04 +0000</pubDate>
+      
+      <guid>https://jhnwr.com/videos/bs4vselvsscrapy/</guid>
+      <description>Picking the Right tool for the job When it comes to web scraping with Python these days we have 3 main options of tools that we can use tog et the job done for us. Picking the right one will depend on a few things:
+ The webstie you are scraping What you want to achieve What you want to do with the data    </description>
+    </item>
+    
+  </channel>
+</rss>
